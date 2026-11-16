@@ -4,6 +4,12 @@ An interactive Power BI pilot dashboard designed to help Shield
 Insurance understand business performance across revenue, customers,
 cities, age groups, sales modes, and policy preferences.
 
+<p align="center">
+  <img src="assets/github-banner.png" alt="Shield Insurance" width="100%">
+</p>
+
+# Shield Insurance – Business Performance & Customer Analytics
+
 ## Project Overview
 
 The business requirement was to build a consolidated view of customer
