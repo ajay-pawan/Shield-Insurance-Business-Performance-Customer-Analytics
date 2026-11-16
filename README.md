@@ -10,7 +10,7 @@ cities, age groups, sales modes, and policy preferences.
 
 
 
-[Click here to view the Interactive Dashboard]([PASTE_YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiOWQwOTY0NDMtNjFiZi00NDNiLWIzYzctYmI1NTdlYjE1MDA3IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=ba85cc2047019711094e)
+[Click here to view the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWQwOTY0NDMtNjFiZi00NDNiLWIzYzctYmI1NTdlYjE1MDA3IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=ba85cc2047019711094e)
 # Shield Insurance – Business Performance & Customer Analytics
 
 ## Project Overview
